@@ -118,23 +118,23 @@
 \def \mainfontbold {inter-semibold}
 % \def \mainbolditalicfont {}
 % \def \mainitalicfont {}
-\def \mainfontsize {9.5}
+\def \mainfontsize {8.5}
 \def \mainsansfont {inter-light}
 
 %Main Subheading Font Definitions
 %Used for company name and sub-skills
 \def \pathsubheadingfont {\pathtitlefont}
 \def \subheadingfont {\titlefont}
-\def \subheadingsize {12}
+\def \subheadingsize {11}
 
 %Main Job Descriptor and Location Font Definitions
 %Used for company name and sub-skills
 \def \pathdescriptorfont {\pathsubheadingfont}
 \def \descriptorfont {\secondnamefont}
-\def \descriptorsize {10}
+\def \descriptorsize {9}
 \def \pathlocationfont {\pathsubheadingfont}
 \def \locationfont {\subheadingfont}
-\def \locationsize {8pt}
+\def \locationsize {7pt}
 
 %Main Monospace Font Definitions 
 %Used for Job Title and Contact Line 
@@ -155,7 +155,7 @@
 \setlength{\TPHorizModule}{1mm}
 \setlength{\TPVertModule}{1mm}
 \newcommand{\lastupdated}{\begin{textblock}{60}(155,5)
-\color{date}\fontspec[Path = \pathmainfont]{\mainfont}\fontsize{8pt}{10pt}\selectfont 
+\color{date}\fontspec[Path = \pathmainfont]{\mainfont}\fontsize{7pt}{9pt}\selectfont 
 Last Updated on \today
 \end{textblock}}
 
@@ -165,7 +165,7 @@ Last Updated on \today
 \newcommand{\namesection}[4]{
 \RaggedRight{
 \color{title}
-\fontsize{50pt}{60pt}
+\fontsize{45pt}{55pt}
 \fontspec[Path = \pathtitlefont]{\firstnamefont}\selectfont #1 
 \fontspec[Path = \pathtitlefont]{\secondnamefont}\selectfont #2
 } \\[5pt]
@@ -192,23 +192,23 @@ Last Updated on \today
 
 % Headings command
 \titleformat{\section}{\color{title}
-\scshape\fontspec[Path = \pathtitlefont]{\titlefont}\fontsize{16pt}{24pt}\selectfont \raggedright}{}{0em}{}
+\scshape\fontspec[Path = \pathtitlefont]{\titlefont}\fontsize{15pt}{22pt}\selectfont \raggedright}{}{0em}{}
 
 % Subheadings command
 \titleformat{\subsection}{
-\color{subheadings}\fontspec[Path = \pathsubheadingfont ]{\subheadingfont}\fontsize{\subheadingsize}{14pt}\selectfont\bfseries\uppercase}{}{0em}{}
+\color{subheadings}\fontspec[Path = \pathsubheadingfont ]{\subheadingfont}\fontsize{\subheadingsize}{12pt}\selectfont\bfseries\uppercase}{}{0em}{}
 
 %Subheadings on the right
 \newcommand{\runsubsection}[1]{
-\color{subheadings}\fontspec[Path = \pathsubheadingfont ]{\subheadingfont}\fontsize{\subheadingsize}{14pt}\selectfont\bfseries\uppercase {#1} \normalfont}
+\color{subheadings}\fontspec[Path = \pathsubheadingfont ]{\subheadingfont}\fontsize{\subheadingsize}{12pt}\selectfont\bfseries\uppercase {#1} \normalfont}
 
 % Descriptors command
 \newcommand{\descript}[1]{
-\color{subheadings}\raggedright\scshape\fontspec[Path = \pathdescriptorfont]{\descriptorfont}\fontsize{\descriptorsize}{13pt}\selectfont {#1 \\} \normalfont}
+\color{subheadings}\raggedright\scshape\fontspec[Path = \pathdescriptorfont]{\descriptorfont}\fontsize{\descriptorsize}{11pt}\selectfont {#1 \\} \normalfont}
 
 % Location command
 \newcommand{\location}[1]{
-\color{headings}\raggedright\fontspec[Path = \pathlocationfont]{\locationfont}\fontsize{\locationsize}{12pt}\selectfont {#1\\} \normalfont}
+\color{headings}\raggedright\fontspec[Path = \pathlocationfont]{\locationfont}\fontsize{\locationsize}{10pt}\selectfont {#1\\} \normalfont}
 
 %Contact Line
 \newcommand{\contactline}[5]{\begingroup
