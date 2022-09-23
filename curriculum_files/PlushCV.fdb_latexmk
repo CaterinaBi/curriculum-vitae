@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1663959598 "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1663959598
-  "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" 1663959598 8342 e2ea620abce1bb2ddc118b5a7d84d856 ""
+["pdflatex"] 1663962820 "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1663962820
+  "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" 1663962819 8361 44e8bb7e57a02ca724d3776d296490db ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -57,8 +57,8 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1663182575 2826440 204b26d63dad46f86a4a135a7f12f40a ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "PlushCV.aux" 1663959598 32 3985256e7290058c681f74d7a3565a19 ""
-  "PlushCV.tex" 1663959598 8342 e2ea620abce1bb2ddc118b5a7d84d856 ""
+  "PlushCV.aux" 1663962820 32 3985256e7290058c681f74d7a3565a19 ""
+  "PlushCV.tex" 1663962819 8361 44e8bb7e57a02ca724d3776d296490db ""
   "plushcv.cls" 1663959215 7604 c34e202e385f7dc5a14c87eedfe31c14 ""
   (generated)
   "PlushCV.log"
