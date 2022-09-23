@@ -1,6 +1,0 @@
-PWD /Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files
-INPUT /usr/local/texlive/2022/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/my-resume.tex
-OUTPUT my-resume.log
