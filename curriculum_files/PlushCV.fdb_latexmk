@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1664271092 "PlushCV.xdv" "PlushCV.pdf" "PlushCV" 1664271092
-  "PlushCV.xdv" 1664271092 55544 f014e8ce9fff8ab45452f8922c9e0e26 "xelatex"
+["xdvipdfmx"] 1665219476 "PlushCV.xdv" "PlushCV.pdf" "PlushCV" 1665219476
+  "PlushCV.xdv" 1665219476 55512 b8cd473f5c04c7a48021ec950fa97c9d "xelatex"
   (generated)
   "PlushCV.pdf"
-["xelatex"] 1664271091 "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.xdv" "PlushCV" 1664271092
-  "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" 1664271076 10532 f78f0fa63169e786651be5143de0a67b ""
+["xelatex"] 1665219476 "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.xdv" "PlushCV" 1665219476
+  "/Users/caterinabonan/Desktop/curriculum-vitae/curriculum_files/PlushCV.tex" 1665219461 10536 03b9fc77c62ad889fdfdd1b61a645c45 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -77,9 +77,9 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1663182591 5419893 aadec422be433e859886fc25b4740396 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "PlushCV.aux" 1664271092 2340 c273fd7c3b3016e2c6e375b6d15c6cfe "xelatex"
-  "PlushCV.out" 1664271092 2032 9f92730ebaa07fc19637095fec9b3d15 "xelatex"
-  "PlushCV.tex" 1664271076 10532 f78f0fa63169e786651be5143de0a67b ""
+  "PlushCV.aux" 1665219476 2340 c273fd7c3b3016e2c6e375b6d15c6cfe "xelatex"
+  "PlushCV.out" 1665219476 2032 9f92730ebaa07fc19637095fec9b3d15 "xelatex"
+  "PlushCV.tex" 1665219461 10536 03b9fc77c62ad889fdfdd1b61a645c45 ""
   "icons/main/github.png" 1663959526 3129 e4cb1babb3d4ab4ac087dd96a2138bad ""
   "icons/main/home.png" 1663959533 1284 c20a55072a1675121b9fabff9fc7d8b9 ""
   "icons/main/linkedin.png" 1663959538 1806 335f50cee53cf4e40e93fc9ba6b47fa5 ""
