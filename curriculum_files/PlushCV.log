@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.14)  15 OCT 2022 17:16
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.9.14)  15 OCT 2022 17:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -613,15 +613,15 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `PlushCV.out' has not changed.
-(rerunfilecheck)             Checksum: 6295F9E79BD47D903C38BC976D8A28D9;1970.
+(rerunfilecheck)             Checksum: D0439649B974778A7F1BE68E779A3BAA;1788.
  ) 
 Here is how much of TeX's memory you used:
  13123 strings out of 476179
  261321 string characters out of 5809544
- 653904 words of memory out of 5000000
+ 652711 words of memory out of 5000000
  33670 multiletter control sequences out of 15000+600000
  471005 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 88i,11n,136p,533b,566s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,11n,136p,533b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on PlushCV.xdv (1 page, 56016 bytes).
+Output written on PlushCV.xdv (1 page, 55088 bytes).
