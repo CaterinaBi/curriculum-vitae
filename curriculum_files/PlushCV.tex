@@ -99,11 +99,11 @@ Fully-funded doctoral research as part of the SNSF-funded 'Wh-in situ in French 
 \end{tightemize}
 \sectionsep
 
-\runsubsection{ELSE: Conseil, Création, Édition}
-\descript{| Translator (IT>FR) }
-\location{March 2014 – May 2014 | Paris, FR}
-Translation of book 'Grands écrivains: Les auteurs célèbres vus par de grands photographes' (Éditions du Chêne, 522 pp.; ISBN 978-2-8123-1085-0).
-\sectionsep
+%\runsubsection{ELSE: Conseil, Création, Édition}
+%\descript{| Translator (IT>FR) }
+%\location{March 2014 – May 2014 | Paris, FR}
+%Translation of book 'Grands écrivains: Les auteurs célèbres vus par de grands photographes' (Éditions du Chêne, 522 pp.; ISBN 978-2-8123-1085-0).
+%\sectionsep
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -112,23 +112,30 @@ Translation of book 'Grands écrivains: Les auteurs célèbres vus par de grands
 
 \section{Experience through projects}
 
-
-\runsubsection{USING NLP TO PREDICT SELF-HARM (OMDENA LONDON)}
-\descript{| Python}
-\location{Repo: \href{https://github.com/CaterinaBi/udacity-ai-programming}{udacity-ai-programming}}
+\runsubsection{FB MARKETPLACE RECOMMENDATION RANKING SYSTEM}
+\descript{| Python, PyTorch, AWS, EKS.}
+\location{Repo: \href{https://github.com/CaterinaBi/aicore-recommendation-ranking-system}{aicore-recommendation-ranking-system}}
 \begin{tightemize}
-\item Cooperative project intended to asses whether the topic of eating disorders and depression can be used to predict self-harm in London's 10-24yo females.
-\item Project team envisage a set of time-series sentiment scores by topic mapped to Central and Northwest London ambulance call-out data for self-harm/injury. 
+\item Currently training a model that works with images and text to make recommendations to potential buyers based on their demographic information;
+\item Will host the app on EKS to orchestrate the containers that maintain/retrain the model.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{USING NLP TO CREATE SPOKEN CORPORA}
+\descript{| Python, Selenium, NLTK, PyTorch.}
+\location{Repo: \href{https://github.com/CaterinaBi/spoken-french-scraping-pipeline}{spoken-french-scraping-pipeline}}
+\begin{tightemize}
+\item Currently developing a module that scrapes text and audio data and saves them locally.
+\item The audio data will be transcribed, tokenised and tagged using NLTK and PyTorch. 
 \end{tightemize}
 \sectionsep
 
 \runsubsection{WEB SCRAPING PIPELINE}
-\descript{| Python, BeautifulSoup, Selenium, AWS, Prometheus, Grafana.}
+\descript{| Python, Selenium, Docker, GitHub Actions.}
 \location{Repo: \href{https://github.com/CaterinaBi/aicore-web-scraping-pipeline}{aicore-web-scraping-pipeline}}
 \begin{tightemize}
 \item Developed a module that scrapes data to upsert information to a database;
-\item Currently pushing an image of the containerised application in a CI/CD pipeline that performs unit testing and deploys the image to an EC2 instance.
-\item Will monitor the container using Prometheus and create dashboards to visualise metrics in Grafana.
+\item Pushed an image of the containerised application in a CI/CD pipeline that performs unit testing and deploys the image to an EC2 instance.
 \end{tightemize}
 \sectionsep
 
@@ -242,6 +249,12 @@ Syntax, Documentation, Data modelling, IPA, Praat.
 % %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Certificates}
 
+\descript{\textbf{AiCore}}
+\location{September 2022 - November 2022}
+Software Engineer Certificate.
+
+\sectionsep
+
 \descript{\textbf{Udacity}}
 \location{March 2022 - October 2022}
 Programming in Python for AI.
@@ -250,7 +263,7 @@ Programming in Python for AI.
 
 \descript{DataCamp}
 \location{October 2022 - Present}
-NLP in Python Spoken | Spoken Language Processing in Python.
+NLP in Python Skill Track.
 
 \sectionsep
 
