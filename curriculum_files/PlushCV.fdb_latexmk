@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1670844738 "PlushCV.xdv" "PlushCV.pdf" "PlushCV" 1670844738
-  "PlushCV.xdv" 1670844738 56720 168886f683004a2e5471d4db3de7fd8b "xelatex"
+["xdvipdfmx"] 1673436376 "PlushCV.xdv" "PlushCV.pdf" "PlushCV" 1673436376
+  "PlushCV.xdv" 1673436376 56320 8290b69e07e755c12c167e4b3e25c384 "xelatex"
   (generated)
   "PlushCV.pdf"
-["xelatex"] 1670844738 "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.xdv" "PlushCV" 1670844738
-  "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" 1670844730 11913 e36232a2039e1f4dac8b1c4f3cb81481 ""
+["xelatex"] 1673436375 "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.xdv" "PlushCV" 1673436376
+  "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" 1673436369 12400 694922f7aebf13ada21b209dbccc527d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -77,9 +77,9 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1663182591 5419893 aadec422be433e859886fc25b4740396 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "PlushCV.aux" 1670844738 2200 647844ffb088f49b9dc39e53e2b302c1 "xelatex"
-  "PlushCV.out" 1670844738 1788 d0439649b974778a7f1be68e779a3baa "xelatex"
-  "PlushCV.tex" 1670844730 11913 e36232a2039e1f4dac8b1c4f3cb81481 ""
+  "PlushCV.aux" 1673436376 2200 647844ffb088f49b9dc39e53e2b302c1 "xelatex"
+  "PlushCV.out" 1673436376 1788 d0439649b974778a7f1be68e779a3baa "xelatex"
+  "PlushCV.tex" 1673436369 12400 694922f7aebf13ada21b209dbccc527d ""
   "icons/main/github.png" 1665847341 3129 e4cb1babb3d4ab4ac087dd96a2138bad ""
   "icons/main/home.png" 1665847341 1284 c20a55072a1675121b9fabff9fc7d8b9 ""
   "icons/main/linkedin.png" 1665847341 1806 335f50cee53cf4e40e93fc9ba6b47fa5 ""
