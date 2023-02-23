@@ -1,6 +1,6 @@
 # Fdb version 3
-["lualatex"] 1675762955 "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1675762956
-  "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" 1675762947 12281 d59f0d53a68caf2af9c4a9b52d5fd82a ""
+["lualatex"] 1677088203 "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" "PlushCV.pdf" "PlushCV" 1677088204
+  "/Users/caterinabonan/Desktop/GitHubRepos/curriculum-vitae/curriculum_files/PlushCV.tex" 1677088194 14340 83b284fbd9eeda207ccb1d45423c8b19 ""
   "/Users/caterinabonan/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/inter-light.luc" 1669125418 996537 58813c53f6ec6aa1619474fac7fb3b62 ""
   "/Users/caterinabonan/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/inter-semibold.luc" 1669125419 1041401 cf7bed6d359bbfd3f3495ca8516a4e24 ""
   "/Users/caterinabonan/Library/texlive/2022/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1663186744 128410 3c91169ff7de983cd311d522ab9c8010 ""
@@ -143,9 +143,9 @@
   "/usr/local/texlive/2022/texmf-dist/tex/luatex/luaotfload/luaotfload.lua" 1647637340 13565 30cc2d8cecf79afb1abb4d5c12eb919a ""
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/luahbtex/lualatex.fmt" 1663182573 4558589 39b493a6c7effbd168307c48e55370e5 ""
-  "PlushCV.aux" 1675762956 2340 579737886dad0eb4f4951a35006a0768 "lualatex"
-  "PlushCV.out" 1675762956 1877 b234eb7fa8b4597e85d7cba61ad4113e "lualatex"
-  "PlushCV.tex" 1675762947 12281 d59f0d53a68caf2af9c4a9b52d5fd82a ""
+  "PlushCV.aux" 1677088204 2588 7eb5f7b580fbbc7793716937e5219305 "lualatex"
+  "PlushCV.out" 1677088204 2247 d7402e7462f7e00a2905c9e89452122c "lualatex"
+  "PlushCV.tex" 1677088194 14340 83b284fbd9eeda207ccb1d45423c8b19 ""
   "fonts/inter/inter-light.ttf" 1665847341 310420 d4be01c95657978131342b1dcf829a45 ""
   "fonts/inter/inter-semibold.ttf" 1665847341 315756 3e87064b7567bef4ecd2ba977ce028bc ""
   "fonts/officecodeprod/OfficeCodeProD-Light.ttf" 1665847341 79268 384e62cf2d81707f7da4ce242b34b213 ""
